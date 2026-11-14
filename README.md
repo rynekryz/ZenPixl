@@ -2,6 +2,12 @@
 <img src="icon.png" width="160" height="160" style="display: block; margin: 0 auto"/>
 <h1>ZenPixl</h1>
 <p>A simple image tools</p>
+<p align="center">
+  <a href="https://github.com/rynekryz/ZenPixl/stargazers"><img src="https://img.shields.io/github/stars/rynekryz/ZenPixl?style=flat&logo=github&labelColor=5F5E5E&color=5F5E5E&logoColor=white&sort=semver" alt="GitHub stars" height="30"/></a>
+  <img src="assets/badges/html.svg" alt="HTML"/>
+  <img src="assets/badges/css.svg" alt="CSS"/>
+  <img src="assets/badges/javascript.svg" alt="JavaScript"/>
+</p>
 
 <h1>Screenshots</h1>
 
@@ -42,6 +48,6 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/YKhWXXhKmC"><img src="https://img.shields.io/badge/Discord-5A5A5A?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://tiktok.com/@rynekryz"><img src="https://img.shields.io/badge/TikTok-5A5A5A?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://discord.gg/YKhWXXhKmC"><img src="assets/badges/discord.svg" alt="Discord"/></a>
+  <a href="https://tiktok.com/@rynekryz"><img src="assets/badges/tiktok.svg" alt="TikTok"/></a>
 </div>
