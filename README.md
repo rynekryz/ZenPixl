@@ -22,7 +22,9 @@
   <a href="https://github.com/rynekryz/ZenPixl"><img src="assets/badges/getgithub.svg" alt="Get it on GitHub" height="56"/></a>
 </p>
 
----
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-dark.svg"><img src="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-light.svg" width="100%" alt=""></picture>
+</div>
 
 ## Screenshots
 
@@ -35,7 +37,9 @@
 <img src="/Screenshots/28489.png" width="30%" />
 </div>
 
----
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-dark.svg"><img src="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-light.svg" width="100%" alt=""></picture>
+</div>
 
 ## Features
 
@@ -56,7 +60,9 @@
 - Material 3
 - etc.
 
----
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-dark.svg"><img src="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-light.svg" width="100%" alt=""></picture>
+</div>
 
 ## Technical Stack
 
@@ -65,7 +71,9 @@
 - **Language:** JavaScript
 - **Build:** none
 
----
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-dark.svg"><img src="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-light.svg" width="100%" alt=""></picture>
+</div>
 
 ## Project Structure
 
@@ -76,7 +84,9 @@ ZenPixl/
 └── ui.css
 ```
 
----
+<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-dark.svg"><img src="https://raw.githubusercontent.com/rynekryz/rynekryz/main/pixel-art/divider-dots-light.svg" width="100%" alt=""></picture>
+</div>
 
 <!-- decor:bottom -->
 <div align="center">
